@@ -4,3 +4,4 @@
 main{max-width:720px;margin:0 auto;padding:40px 16px 64px}h1{font-size:30px;line-height:1.2;margin:0 0 4px}h2{font-size:20px;margin:32px 0 8px}
 .muted{color:var(--muted)}a{color:var(--accent)}nav{border-bottom:1px solid var(--line);padding:14px 16px}nav a{margin-right:16px;font-weight:600;text-decoration:none}
 ul{padding-left:22px}
+.btn{display:inline-block;background:#FF7A59;color:#fff;font-weight:700;padding:14px 24px;border-radius:999px;text-decoration:none}
